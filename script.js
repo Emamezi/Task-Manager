@@ -59,8 +59,8 @@ todoInput.addEventListener("keydown", function (event) {
 });
 todoList.addEventListener("change", toggleTask);
 
-const todoItems = ["stdudy code", "workout", "doo laundry"];
-todoItems.forEach((item) => {
-  const task = createTaskItem(item);
-  todoList.appendChild(task);
-});
+// const todoItems = ["stdudy code", "workout", "doo laundry"];
+// todoItems.forEach((item) => {
+//   const task = createTaskItem(item);
+//   todoList.appendChild(task);
+// });
