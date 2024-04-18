@@ -71,6 +71,8 @@ h1 {
 }
 .completed {
   text-decoration: line-through 3px var(--main-color);
+  /* background: rgba(0, 0, 0, 0.1); */
+  opacity: 0.15;
 }
 .delete-btn {
   border: none;
